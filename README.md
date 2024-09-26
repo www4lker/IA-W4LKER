@@ -1,9 +1,15 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# Bem-vindos ao IA W4LKER - uma Wikipedia de Diálogos com IA
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+O IA W4LKER é um projeto inovador que transforma minhas conversas com o ChatGPT e outras Inteligências generativas em uma enciclopédia digital colaborativa, inspirada no estilo da Wikipédia. Este espaço único serve como um repositório vivo de conhecimento, onde cada verbete representa uma interação única com a inteligência artificial.
 
----
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+Assim como o Notalogia, que utiliza o Obsidian e o paradigma Zettelkasten para organizar informações, o IA W4LKER emprega uma estrutura não linear, permitindo conexões entre diferentes diálogos através de links no estilo wiki. Esta abordagem reflete o modo como nossa mente associa informações, criando uma rede de conhecimento interconectada e em constante expansão.
+
+O IA W4LKER vai além de uma simples coleção de conversas. É um jardim digital de aprendizagem, um ecossistema informacional onde as ideias florescem e evoluem com o tempo. Cada entrada não é apenas um registro estático, mas um ponto de partida para novas explorações e descobertas.
+
+Neste espaço, abraçamos o espírito da aprendizagem pública. Compartilhamos não apenas as respostas do ChatGPT, mas também nossas reflexões, questionamentos e insights derivados dessas interações. É um convite aberto para que outros explorem, contribuam e se inspirem nessa jornada coletiva de conhecimento.
+**resumo: tres posts no bsky**
+![resumo](https://i.postimg.cc/90XSWYQK/image.png)
+
+O IA W4LKER está sempre em beta, em constante evolução e aprimoramento. Como um organismo vivo, cresce e se adapta com cada nova conversa, cada nova pergunta, cada nova descoberta. É um testemunho do poder da colaboração entre humanos e IA na criação e disseminação do conhecimento.
+
+Convidamos você a explorar este universo de diálogos, a mergulhar nas profundezas do aprendizado assistido por IA e, quem sabe, a se inspirar para criar seu próprio espaço de aprendizagem pública. Bem-vindo ao futuro da construção colaborativa do conhecimento!
