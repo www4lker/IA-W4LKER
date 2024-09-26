@@ -7,8 +7,14 @@ Assim como o Notalogia, que utiliza o Obsidian e o paradigma Zettelkasten para o
 O IA W4LKER vai além de uma simples coleção de conversas. É um jardim digital de aprendizagem, um ecossistema informacional onde as ideias florescem e evoluem com o tempo. Cada entrada não é apenas um registro estático, mas um ponto de partida para novas explorações e descobertas.
 
 Neste espaço, abraçamos o espírito da aprendizagem pública. Compartilhamos não apenas as respostas do ChatGPT, mas também nossas reflexões, questionamentos e insights derivados dessas interações. É um convite aberto para que outros explorem, contribuam e se inspirem nessa jornada coletiva de conhecimento.
+
+
 **resumo: tres posts no bsky**
+
+
 ![resumo](https://i.postimg.cc/90XSWYQK/image.png)
+
+
 
 O IA W4LKER está sempre em beta, em constante evolução e aprimoramento. Como um organismo vivo, cresce e se adapta com cada nova conversa, cada nova pergunta, cada nova descoberta. É um testemunho do poder da colaboração entre humanos e IA na criação e disseminação do conhecimento.
 
