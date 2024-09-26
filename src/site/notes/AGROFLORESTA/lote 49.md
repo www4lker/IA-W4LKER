@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agrofloresta/lote-49/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/agrofloresta/lote-49/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"noteIcon":""}
 ---
 
 ![capa](https://i.postimg.cc/13pBQRh0/Pieter-Bruegel-O-Velho-Torre-de-Babel.jpg)
@@ -15,8 +15,14 @@ O IA W4LKER vai além de uma simples coleção de conversas. É um jardim digita
 
 Neste espaço, abraçamos o espírito da aprendizagem pública. Compartilhamos não apenas as respostas do ChatGPT, mas também nossas reflexões, questionamentos e insights derivados dessas interações. É um convite aberto para que outros explorem, contribuam e se inspirem nessa jornada coletiva de conhecimento.
 
+![mandala](https://i.postimg.cc/DwkQgKc7/DALL-E-2024-01-16-16-25-37-Create-a-minimalist-mandala-style-logo-in-the-style-of-Hobo-Symbols-for.png)
+(*Create a minimalist mandala-style logo in the style of Hobo Symbols*)
+
 O IA W4LKER está sempre em beta, em constante evolução e aprimoramento. Como um organismo vivo, cresce e se adapta com cada nova conversa, cada nova pergunta, cada nova descoberta. É um testemunho do poder da colaboração entre humanos e IA na criação e disseminação do conhecimento.
 
 Convidamos você a explorar este universo de diálogos, a mergulhar nas profundezas do aprendizado assistido por IA e, quem sabe, a se inspirar para criar seu próprio espaço de aprendizagem pública. Bem-vindo ao futuro da construção colaborativa do conhecimento!
 
 [[AGROFLORESTA/Comece aqui - metaprompts\|Comece aqui - metaprompts]]
+
+> [!INFO] Fale comigo
+> *Sugestões*, *correções* e solicitação de retirada de material com direito autoral: [d9gda2w9g@mozmail.com](mailto:d9gda2w9g@mozmail.com)
