@@ -3,9 +3,9 @@
 ---
 
 ![capa](https://i.postimg.cc/13pBQRh0/Pieter-Bruegel-O-Velho-Torre-de-Babel.jpg)
-(Pieter Bruegel O Velho - Torre de Babel)
+(*Pieter Bruegel O Velho - Torre de Babel*)
 
-Bem-vindos ao IA W4LKER - uma Wikipedia de Diálogos com IA
+# Bem-vindos ao IA W4LKER - uma Wikipedia de Diálogos com IA
 
 O IA W4LKER é um projeto inovador que transforma minhas conversas com o ChatGPT e outras Inteligências generativas em uma enciclopédia digital colaborativa, inspirada no estilo da Wikipédia. Este espaço único serve como um repositório vivo de conhecimento, onde cada verbete representa uma interação única com a inteligência artificial.
 
